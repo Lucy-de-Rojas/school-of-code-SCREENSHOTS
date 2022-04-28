@@ -25,7 +25,7 @@
 
 
 <h2>feedback summary 2</h2>
-<img width=400 height=300 src='https://github.com/Lucy-de-Rojas/school-of-code-SCREENSHOTS/blob/main/DAY4/feedbackSummar2y.jpg'/>
+<img width=400 height=300 src='https://github.com/Lucy-de-Rojas/school-of-code-SCREENSHOTS/blob/main/DAY4/feedBackSummar2y.jpg'/>
 
 
 
