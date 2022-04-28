@@ -30,12 +30,20 @@
 
 
 
+<h2>feedback summary</h2>
+<img width=400 height=300 src='https://github.com/Lucy-de-Rojas/school-of-code-SCREENSHOTS/blob/main/DAY4/feedBackSummary.jpg'/>
 
 
 
 
 
+<h2>jerks</h2>
+<img width=400 height=300 src='https://github.com/Lucy-de-Rojas/school-of-code-SCREENSHOTS/blob/main/DAY4/jerks.jpg'/>
 
+
+
+<h2>kerthSaying</h2>
+<img width=400 height=300 src='https://github.com/Lucy-de-Rojas/school-of-code-SCREENSHOTS/blob/main/DAY4/kerthSaying.jpg'/>
 
 
 
