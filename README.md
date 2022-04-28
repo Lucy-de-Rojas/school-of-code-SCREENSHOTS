@@ -1,6 +1,6 @@
 <p align='center'>
 
-<img src='DAy4/clumsyWords.jpg'/>
+<img src='https://github.com/Lucy-de-Rojas/school-of-code-SCREENSHOTS/blob/main/DAY4/clumsyWords.jpg'/>
 
 
 
