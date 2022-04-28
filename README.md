@@ -48,6 +48,34 @@
 
 
 
+<h2>sides Of Person</h2>
+<img width=400 height=300 src='https://github.com/Lucy-de-Rojas/school-of-code-SCREENSHOTS/blob/main/DAY4/sidesOfPerson.jpg'/>
+
+
+
+
+
+
+
+<h2>strategy book</h2>
+<img width=400 height=300 src='https://github.com/Lucy-de-Rojas/school-of-code-SCREENSHOTS/blob/main/DAY4/strategyBook.jpg'/>
+
+
+
+
+<h2>variables</h2>
+<img width=400 height=300 src='https://github.com/Lucy-de-Rojas/school-of-code-SCREENSHOTS/blob/main/DAY4/variables.jpg'/>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
